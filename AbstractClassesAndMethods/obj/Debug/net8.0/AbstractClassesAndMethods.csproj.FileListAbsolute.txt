@@ -1,0 +1,15 @@
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.exe
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.deps.json
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.runtimeconfig.json
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.dll
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\bin\Debug\net8.0\AbstractClassesAndMethods.pdb
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.AssemblyInfoInputs.cache
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.AssemblyInfo.cs
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.sourcelink.json
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.dll
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\obj\Debug\net8.0\refint\AbstractClassesAndMethods.dll
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.pdb
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\obj\Debug\net8.0\AbstractClassesAndMethods.genruntimeconfig.cache
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\AbstractClassesAndMethods\obj\Debug\net8.0\ref\AbstractClassesAndMethods.dll
