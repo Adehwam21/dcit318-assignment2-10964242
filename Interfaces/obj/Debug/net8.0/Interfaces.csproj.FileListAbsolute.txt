@@ -1,0 +1,15 @@
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\bin\Debug\net8.0\Interfaces.exe
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\bin\Debug\net8.0\Interfaces.dll
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\obj\Debug\net8.0\Interfaces.dll
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+D:\SCHOOL\THIRD YEAR FILES\SEM 2\Programming II\assignments\dcit318-assignment2\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
